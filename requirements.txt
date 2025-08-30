@@ -1,0 +1,9 @@
+# Core dependencies for LinkedIn Post Agent
+google-generativeai>=0.7.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+
+# Optional: For enhanced functionality
+urllib3>=2.0.0
+certifi>=2023.7.22
